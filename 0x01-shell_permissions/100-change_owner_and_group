@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent and staff
+chown vincent:staff $file
