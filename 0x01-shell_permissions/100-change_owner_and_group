@@ -1,2 +1,2 @@
-#i!/bin/bash
-chown a vincent:staff 
+#!/bin/bash
+chown staff:vincent 
